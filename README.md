@@ -1,1 +1,1 @@
-# Weather-forecast-app
+This is a responsive weather forecasting web application that allows users to check real-time weather conditions for any city worldwide. Built using React, HTML, and CSS, the app integrates the OpenWeatherMap API to fetch live weather data including temperature, humidity, wind speed, and weather icons.
